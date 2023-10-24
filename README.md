@@ -41,3 +41,4 @@ Update APP_URL to http://[app_name].test or leave as http://boilerplate.test if 
 ```
 
 Access the application by visiting [app_name].test
+# test-project-laravel-vue-CRUD
